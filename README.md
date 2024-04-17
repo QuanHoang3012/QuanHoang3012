@@ -5,7 +5,7 @@
 <div align="center">
   &nbsp;
   <a href="#">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanhoang3012&layout=donut&theme=dracula">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanhoang3012&layout=compact&theme=dracula">
 </a>
   &nbsp;
   &nbsp;
