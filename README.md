@@ -1,5 +1,5 @@
-<h2> ### 👋 Hi there, I'm Hoang Anh Quan</h2>
-🚀I'm currently learning Software Engineering at FPT University.
+<h2 align="center"> ### 👋 Hi there, I'm Hoang Anh Quan</h2>
+<h3 align="center">🚀I'm currently learning Software Engineering at FPT University.</h3>
 
 <h2 align="center">📊Github Stats</h2>
 <div align="center">
