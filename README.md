@@ -17,6 +17,8 @@
 </div>
 <br>
 <h2 align="center">📊Socials Media</h2>
-<div>
-  <a href="https://www.facebook.com/hoangquanjmg/"><i class="fa-brands fa-facebook"></i></a>
+<div align="center">
+  <a href="https://linkedin.com/in/quanhoang3012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffffff" height="30" width="40" /></a>
+<a href="https://fb.com/hoangquanjmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoanff" height="30" width="40" /></a>
+<a href="https://instagram.com/qunn_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffffff" height="30" width="40" /></a>
 </div>
