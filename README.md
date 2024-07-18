@@ -4,18 +4,11 @@
 <h2 align="center">📊Github Stats</h2>
 <br>
 <div align="center">
-  &nbsp;
-  <a href="#">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kat1002&show_icons=true&locale=en&layout=compact" alt="QuanHoang3012" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kat1002&show_icons=true&locale=en" alt="QuanHoang3012" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kat1002&" alt="QuanHoang3012" /></p></a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuanHoang3012&show_icons=true&locale=en&layout=compact" alt="QuanHoang3012" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanHoang3012&show_icons=true&locale=en" alt="QuanHoang3012" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuanHoang3012&" alt="QuanHoang3012" /></p>
   &nbsp;
   &nbsp;
-  <a href="#">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=quanhoang3012&show_icons=true&theme=dracula">
-</a>
   &nbsp;
 </div>
 <br>
