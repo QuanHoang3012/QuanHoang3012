@@ -4,9 +4,8 @@
 <h2 align="center">📊Github Stats</h2>
 <br>
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuanHoang3012&show_icons=true&locale=en&layout=compact" alt="QuanHoang3012" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanHoang3012&show_icons=true&locale=en" alt="QuanHoang3012" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuanHoang3012&" alt="QuanHoang3012" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoang3012&hide_progress=true&theme=dracula" alt="QuanHoang3012" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuanHoang3012&theme=dracula" alt="QuanHoang3012" /></p>
   &nbsp;
   &nbsp;
   &nbsp;
