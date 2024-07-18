@@ -6,8 +6,11 @@
 <div align="center">
   &nbsp;
   <a href="#">
-    <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanhoang3012&layout=compact&theme=dracula">
-</a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kat1002&show_icons=true&locale=en&layout=compact" alt="QuanHoang3012" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kat1002&show_icons=true&locale=en" alt="QuanHoang3012" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kat1002&" alt="QuanHoang3012" /></p></a>
   &nbsp;
   &nbsp;
   <a href="#">
